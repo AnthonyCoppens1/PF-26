@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week01\IADI-1B\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
