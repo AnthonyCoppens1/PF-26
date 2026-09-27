@@ -48,6 +48,7 @@ namespace MyApp
             name = Console.ReadLine();
 
             Console.WriteLine($"Hello {name}");
+            Console.WriteLine(name);
             Console.WriteLine($"Hello {Console.ReadLine()}");
             
 
