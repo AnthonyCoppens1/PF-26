@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\bin\Debug\net10.0\InputAndConversion.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\bin\Debug\net10.0\InputAndConversion.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\bin\Debug\net10.0\InputAndConversion.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\bin\Debug\net10.0\InputAndConversion.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\bin\Debug\net10.0\InputAndConversion.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\obj\Debug\net10.0\InputAndConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\obj\Debug\net10.0\InputAndConversion.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\obj\Debug\net10.0\InputAndConversion.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\obj\Debug\net10.0\InputAndConversion.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\obj\Debug\net10.0\InputAndConversion.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\obj\Debug\net10.0\InputAndConversion.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\obj\Debug\net10.0\refint\InputAndConversion.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\obj\Debug\net10.0\InputAndConversion.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\obj\Debug\net10.0\InputAndConversion.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\InputAndConversion\obj\Debug\net10.0\ref\InputAndConversion.dll

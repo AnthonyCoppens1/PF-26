@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\bin\Debug\net10.0\Conversions.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\bin\Debug\net10.0\Conversions.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\bin\Debug\net10.0\Conversions.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\bin\Debug\net10.0\Conversions.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\bin\Debug\net10.0\Conversions.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\obj\Debug\net10.0\Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\obj\Debug\net10.0\Conversions.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\obj\Debug\net10.0\Conversions.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\obj\Debug\net10.0\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\obj\Debug\net10.0\Conversions.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\obj\Debug\net10.0\Conversions.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\obj\Debug\net10.0\refint\Conversions.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\obj\Debug\net10.0\Conversions.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\obj\Debug\net10.0\Conversions.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1B\Conversions\obj\Debug\net10.0\ref\Conversions.dll

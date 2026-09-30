@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\bin\Debug\net10.0\Variables.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\bin\Debug\net10.0\Variables.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\bin\Debug\net10.0\Variables.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\bin\Debug\net10.0\Variables.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\obj\Debug\net10.0\Variables.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\obj\Debug\net10.0\Variables.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\obj\Debug\net10.0\refint\Variables.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\obj\Debug\net10.0\Variables.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\IADI-1A\Variables\obj\Debug\net10.0\ref\Variables.dll
