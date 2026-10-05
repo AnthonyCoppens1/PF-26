@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\bin\Debug\net10.0\Omzettingen.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\bin\Debug\net10.0\Omzettingen.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\bin\Debug\net10.0\Omzettingen.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\bin\Debug\net10.0\Omzettingen.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\bin\Debug\net10.0\Omzettingen.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\obj\Debug\net10.0\Omzettingen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\obj\Debug\net10.0\Omzettingen.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\obj\Debug\net10.0\Omzettingen.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\obj\Debug\net10.0\Omzettingen.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\obj\Debug\net10.0\Omzettingen.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\obj\Debug\net10.0\Omzettingen.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\obj\Debug\net10.0\refint\Omzettingen.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\obj\Debug\net10.0\Omzettingen.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\obj\Debug\net10.0\Omzettingen.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\Omzettingen\obj\Debug\net10.0\ref\Omzettingen.dll

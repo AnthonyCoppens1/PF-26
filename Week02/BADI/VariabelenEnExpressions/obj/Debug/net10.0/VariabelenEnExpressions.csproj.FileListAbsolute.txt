@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\bin\Debug\net10.0\VariabelenEnExpressions.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\bin\Debug\net10.0\VariabelenEnExpressions.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\bin\Debug\net10.0\VariabelenEnExpressions.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\bin\Debug\net10.0\VariabelenEnExpressions.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\bin\Debug\net10.0\VariabelenEnExpressions.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\obj\Debug\net10.0\VariabelenEnExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\obj\Debug\net10.0\VariabelenEnExpressions.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\obj\Debug\net10.0\VariabelenEnExpressions.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\obj\Debug\net10.0\VariabelenEnExpressions.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\obj\Debug\net10.0\VariabelenEnExpressions.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\obj\Debug\net10.0\VariabelenEnExpressions.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\obj\Debug\net10.0\refint\VariabelenEnExpressions.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\obj\Debug\net10.0\VariabelenEnExpressions.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\obj\Debug\net10.0\VariabelenEnExpressions.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week02\BADI\VariabelenEnExpressions\obj\Debug\net10.0\ref\VariabelenEnExpressions.dll
