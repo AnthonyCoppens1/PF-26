@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\bin\Debug\net10.0\ifStatement.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\bin\Debug\net10.0\ifStatement.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\bin\Debug\net10.0\ifStatement.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\bin\Debug\net10.0\ifStatement.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\bin\Debug\net10.0\ifStatement.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\obj\Debug\net10.0\ifStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\obj\Debug\net10.0\ifStatement.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\obj\Debug\net10.0\ifStatement.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\obj\Debug\net10.0\ifStatement.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\obj\Debug\net10.0\ifStatement.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\obj\Debug\net10.0\ifStatement.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\obj\Debug\net10.0\refint\ifStatement.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\obj\Debug\net10.0\ifStatement.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\obj\Debug\net10.0\ifStatement.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\ifStatement\obj\Debug\net10.0\ref\ifStatement.dll

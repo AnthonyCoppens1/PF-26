@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\bin\Debug\net10.0\SwitchCase.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\bin\Debug\net10.0\SwitchCase.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\bin\Debug\net10.0\SwitchCase.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\bin\Debug\net10.0\SwitchCase.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\bin\Debug\net10.0\SwitchCase.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\obj\Debug\net10.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\obj\Debug\net10.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\obj\Debug\net10.0\SwitchCase.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\obj\Debug\net10.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\obj\Debug\net10.0\SwitchCase.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\obj\Debug\net10.0\SwitchCase.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\obj\Debug\net10.0\refint\SwitchCase.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\obj\Debug\net10.0\SwitchCase.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\obj\Debug\net10.0\SwitchCase.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\SwitchCase\obj\Debug\net10.0\ref\SwitchCase.dll

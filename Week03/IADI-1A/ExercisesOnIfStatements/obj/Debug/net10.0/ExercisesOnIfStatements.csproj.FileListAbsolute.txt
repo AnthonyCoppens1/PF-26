@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\bin\Debug\net10.0\ExercisesOnIfStatements.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\bin\Debug\net10.0\ExercisesOnIfStatements.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\bin\Debug\net10.0\ExercisesOnIfStatements.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\bin\Debug\net10.0\ExercisesOnIfStatements.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\bin\Debug\net10.0\ExercisesOnIfStatements.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\obj\Debug\net10.0\ExercisesOnIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\obj\Debug\net10.0\ExercisesOnIfStatements.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\obj\Debug\net10.0\ExercisesOnIfStatements.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\obj\Debug\net10.0\ExercisesOnIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\obj\Debug\net10.0\ExercisesOnIfStatements.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\obj\Debug\net10.0\ExercisesOnIfStatements.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\obj\Debug\net10.0\refint\ExercisesOnIfStatements.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\obj\Debug\net10.0\ExercisesOnIfStatements.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\obj\Debug\net10.0\ExercisesOnIfStatements.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\IADI-1A\ExercisesOnIfStatements\obj\Debug\net10.0\ref\ExercisesOnIfStatements.dll

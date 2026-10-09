@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\bin\Debug\net10.0\OefeningenIF.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\bin\Debug\net10.0\OefeningenIF.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\bin\Debug\net10.0\OefeningenIF.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\bin\Debug\net10.0\OefeningenIF.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\bin\Debug\net10.0\OefeningenIF.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\obj\Debug\net10.0\OefeningenIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\obj\Debug\net10.0\OefeningenIF.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\obj\Debug\net10.0\OefeningenIF.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\obj\Debug\net10.0\OefeningenIF.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\obj\Debug\net10.0\OefeningenIF.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\obj\Debug\net10.0\OefeningenIF.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\obj\Debug\net10.0\refint\OefeningenIF.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\obj\Debug\net10.0\OefeningenIF.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\obj\Debug\net10.0\OefeningenIF.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week03\BADI\OefeningenIF\obj\Debug\net10.0\ref\OefeningenIF.dll
