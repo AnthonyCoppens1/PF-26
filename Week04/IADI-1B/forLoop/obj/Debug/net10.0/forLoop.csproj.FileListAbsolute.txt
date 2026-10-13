@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\bin\Debug\net10.0\forLoop.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\bin\Debug\net10.0\forLoop.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\bin\Debug\net10.0\forLoop.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\bin\Debug\net10.0\forLoop.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\bin\Debug\net10.0\forLoop.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\obj\Debug\net10.0\forLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\obj\Debug\net10.0\forLoop.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\obj\Debug\net10.0\forLoop.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\obj\Debug\net10.0\forLoop.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\obj\Debug\net10.0\forLoop.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\obj\Debug\net10.0\forLoop.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\obj\Debug\net10.0\refint\forLoop.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\obj\Debug\net10.0\forLoop.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\obj\Debug\net10.0\forLoop.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1B\forLoop\obj\Debug\net10.0\ref\forLoop.dll
