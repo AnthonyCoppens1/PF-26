@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace forLoop
 {
@@ -144,7 +145,7 @@ namespace forLoop
             }
 
             /*
-            1.                  3.
+            1. (initial)    (extra loop) 3.
 
             *                            *
             * *                        * *
@@ -152,20 +153,65 @@ namespace forLoop
             * * * *                * * * *
             * * * * *            * * * * *
 
-            2.                  4.
+            2. (swapped) (extra and swapped) 4.
 
             * * * * *            * * * * *
             * * * *                * * * *
             * * *                    * * *
             * *                        * *
             *                            *
-            
-            
-            
-            
-            
+
             */
 
+            x = 5;
+            Console.WriteLine($"\nPYRAMIDS EXERCISE");
+            for (int i = 1; i <= x; i++)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+
+            //2
+            for (int i = 0; i < x; i++)
+            {
+                for (int j = x; j > i; j--)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine($"3.");
+            for (int i = 1; i <= x; i++)
+            {
+                for (int j = x; j > i; j--)
+                {
+                    Console.Write("  ");
+                }
+                for (int k = 0; k < i; k++)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine($"4.");
+            for (int i = 1; i <= x; i++)
+            {
+                for (int j = 1; j < i; j++)
+                {
+                    Console.Write("  ");
+                }
+                for (int k = x; k >= i; k--)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+            }
 
 
 
