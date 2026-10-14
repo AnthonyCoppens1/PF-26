@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\bin\Debug\net10.0\whileLoop.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\bin\Debug\net10.0\whileLoop.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\bin\Debug\net10.0\whileLoop.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\bin\Debug\net10.0\whileLoop.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\bin\Debug\net10.0\whileLoop.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\obj\Debug\net10.0\whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\obj\Debug\net10.0\whileLoop.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\obj\Debug\net10.0\whileLoop.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\obj\Debug\net10.0\whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\obj\Debug\net10.0\whileLoop.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\obj\Debug\net10.0\whileLoop.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\obj\Debug\net10.0\refint\whileLoop.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\obj\Debug\net10.0\whileLoop.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\obj\Debug\net10.0\whileLoop.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\IADI-1A\whileLoop\obj\Debug\net10.0\ref\whileLoop.dll

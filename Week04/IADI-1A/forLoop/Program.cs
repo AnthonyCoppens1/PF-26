@@ -157,8 +157,58 @@ namespace forLoop
             */
 
 
+            //1
+            Console.WriteLine("$PYRAMID 1");
+            x = 5;
+            for (int i = 1; i <= x; i++)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+            }
 
+            //2
+            Console.WriteLine($"PYRAMID 2");
+            for (int i = 0; i < x; i++)
+            {
+                for (int j = x; j > i; j--)
+                {
+                    Console.Write($"* ");
+                }
+                Console.WriteLine();
+            }
 
+            //3
+            Console.WriteLine($"PYRAMID 3");
+            for (int i = 1; i <= x; i++) //CAREFUL, IF I STARTS AT 0, IT WILL PRINT AN EMPTY ROW
+            {
+                for (int j = x; j > i; j--)
+                {
+                    Console.Write($"  ");
+                }
+                for (int k = 0; k < i; k++)
+                {
+                    Console.Write($"* ");
+                }
+                Console.WriteLine();
+            }
+
+            //4
+            Console.WriteLine($"PYRAMID 4");
+            for(int i = 1; i <= x; i++)
+            {
+                for (int j = 1; j < i; j++)
+                {
+                    Console.Write("  ");
+                }
+                for (int k = x; k >= i; k--)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
