@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\bin\Debug\net9.0\whileLoop.exe
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\bin\Debug\net9.0\whileLoop.deps.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\bin\Debug\net9.0\whileLoop.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\bin\Debug\net9.0\whileLoop.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\bin\Debug\net9.0\whileLoop.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\obj\Debug\net9.0\whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\obj\Debug\net9.0\whileLoop.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\obj\Debug\net9.0\whileLoop.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\obj\Debug\net9.0\whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\obj\Debug\net9.0\whileLoop.sourcelink.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\obj\Debug\net9.0\whileLoop.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\obj\Debug\net9.0\refint\whileLoop.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\obj\Debug\net9.0\whileLoop.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\obj\Debug\net9.0\whileLoop.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week04\BADI\whileLoop\obj\Debug\net9.0\ref\whileLoop.dll
