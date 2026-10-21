@@ -1,0 +1,3 @@
+This is a first check of the file
+ANTHONY
+This is line 3, WITH MORE TEXT BEHIND THE LINE!

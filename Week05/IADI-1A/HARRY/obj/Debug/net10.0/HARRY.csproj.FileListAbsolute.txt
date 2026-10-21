@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\bin\Debug\net10.0\HARRY.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\bin\Debug\net10.0\HARRY.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\bin\Debug\net10.0\HARRY.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\bin\Debug\net10.0\HARRY.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\bin\Debug\net10.0\HARRY.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\obj\Debug\net10.0\HARRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\obj\Debug\net10.0\HARRY.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\obj\Debug\net10.0\HARRY.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\obj\Debug\net10.0\HARRY.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\obj\Debug\net10.0\HARRY.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\obj\Debug\net10.0\HARRY.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\obj\Debug\net10.0\refint\HARRY.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\obj\Debug\net10.0\HARRY.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\obj\Debug\net10.0\HARRY.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\HARRY\obj\Debug\net10.0\ref\HARRY.dll

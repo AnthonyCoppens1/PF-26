@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\bin\Debug\net10.0\ReadingFiles.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\bin\Debug\net10.0\ReadingFiles.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\bin\Debug\net10.0\ReadingFiles.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\bin\Debug\net10.0\ReadingFiles.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\bin\Debug\net10.0\ReadingFiles.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\obj\Debug\net10.0\ReadingFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\obj\Debug\net10.0\ReadingFiles.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\obj\Debug\net10.0\ReadingFiles.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\obj\Debug\net10.0\ReadingFiles.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\obj\Debug\net10.0\ReadingFiles.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\obj\Debug\net10.0\ReadingFiles.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\obj\Debug\net10.0\refint\ReadingFiles.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\obj\Debug\net10.0\ReadingFiles.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\obj\Debug\net10.0\ReadingFiles.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\ReadingFiles\obj\Debug\net10.0\ref\ReadingFiles.dll

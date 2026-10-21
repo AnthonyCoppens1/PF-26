@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\bin\Debug\net10.0\HarryPotterCSV.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\bin\Debug\net10.0\HarryPotterCSV.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\bin\Debug\net10.0\HarryPotterCSV.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\bin\Debug\net10.0\HarryPotterCSV.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\bin\Debug\net10.0\HarryPotterCSV.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\obj\Debug\net10.0\HarryPotterCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\obj\Debug\net10.0\HarryPotterCSV.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\obj\Debug\net10.0\HarryPotterCSV.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\obj\Debug\net10.0\HarryPotterCSV.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\obj\Debug\net10.0\HarryPotterCSV.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\obj\Debug\net10.0\HarryPotterCSV.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\obj\Debug\net10.0\refint\HarryPotterCSV.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\obj\Debug\net10.0\HarryPotterCSV.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\obj\Debug\net10.0\HarryPotterCSV.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1B\HarryPotterCSV\obj\Debug\net10.0\ref\HarryPotterCSV.dll

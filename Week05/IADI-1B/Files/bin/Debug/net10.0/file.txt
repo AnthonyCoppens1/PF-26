@@ -1,0 +1,2 @@
+This is a test file with some text inside.
+This text appears on the next line, but my cursor stays HERE: My name is Anthony

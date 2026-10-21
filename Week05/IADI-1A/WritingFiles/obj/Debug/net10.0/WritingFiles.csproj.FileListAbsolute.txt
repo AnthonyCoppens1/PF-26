@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\bin\Debug\net10.0\WritingFiles.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\bin\Debug\net10.0\WritingFiles.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\bin\Debug\net10.0\WritingFiles.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\bin\Debug\net10.0\WritingFiles.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\bin\Debug\net10.0\WritingFiles.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\obj\Debug\net10.0\WritingFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\obj\Debug\net10.0\WritingFiles.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\obj\Debug\net10.0\WritingFiles.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\obj\Debug\net10.0\WritingFiles.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\obj\Debug\net10.0\WritingFiles.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\obj\Debug\net10.0\WritingFiles.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\obj\Debug\net10.0\refint\WritingFiles.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\obj\Debug\net10.0\WritingFiles.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\obj\Debug\net10.0\WritingFiles.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\IADI-1A\WritingFiles\obj\Debug\net10.0\ref\WritingFiles.dll
