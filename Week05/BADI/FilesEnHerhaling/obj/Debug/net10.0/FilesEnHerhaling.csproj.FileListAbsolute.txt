@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\bin\Debug\net10.0\FilesEnHerhaling.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\bin\Debug\net10.0\FilesEnHerhaling.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\bin\Debug\net10.0\FilesEnHerhaling.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\bin\Debug\net10.0\FilesEnHerhaling.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\bin\Debug\net10.0\FilesEnHerhaling.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\obj\Debug\net10.0\FilesEnHerhaling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\obj\Debug\net10.0\FilesEnHerhaling.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\obj\Debug\net10.0\FilesEnHerhaling.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\obj\Debug\net10.0\FilesEnHerhaling.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\obj\Debug\net10.0\FilesEnHerhaling.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\obj\Debug\net10.0\FilesEnHerhaling.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\obj\Debug\net10.0\refint\FilesEnHerhaling.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\obj\Debug\net10.0\FilesEnHerhaling.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\obj\Debug\net10.0\FilesEnHerhaling.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\FilesEnHerhaling\obj\Debug\net10.0\ref\FilesEnHerhaling.dll

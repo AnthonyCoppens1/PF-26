@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\bin\Debug\net10.0\Harry.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\bin\Debug\net10.0\Harry.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\bin\Debug\net10.0\Harry.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\bin\Debug\net10.0\Harry.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\bin\Debug\net10.0\Harry.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\obj\Debug\net10.0\Harry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\obj\Debug\net10.0\Harry.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\obj\Debug\net10.0\Harry.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\obj\Debug\net10.0\Harry.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\obj\Debug\net10.0\Harry.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\obj\Debug\net10.0\Harry.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\obj\Debug\net10.0\refint\Harry.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\obj\Debug\net10.0\Harry.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\obj\Debug\net10.0\Harry.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\Harry\obj\Debug\net10.0\ref\Harry.dll

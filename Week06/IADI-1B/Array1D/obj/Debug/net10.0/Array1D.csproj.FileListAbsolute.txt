@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\bin\Debug\net10.0\Array1D.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\bin\Debug\net10.0\Array1D.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\bin\Debug\net10.0\Array1D.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\bin\Debug\net10.0\Array1D.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\bin\Debug\net10.0\Array1D.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\obj\Debug\net10.0\Array1D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\obj\Debug\net10.0\Array1D.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\obj\Debug\net10.0\Array1D.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\obj\Debug\net10.0\Array1D.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\obj\Debug\net10.0\Array1D.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\obj\Debug\net10.0\Array1D.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\obj\Debug\net10.0\refint\Array1D.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\obj\Debug\net10.0\Array1D.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\obj\Debug\net10.0\Array1D.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\IADI-1B\Array1D\obj\Debug\net10.0\ref\Array1D.dll
