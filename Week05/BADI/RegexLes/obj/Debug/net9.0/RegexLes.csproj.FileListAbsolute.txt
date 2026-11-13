@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\bin\Debug\net9.0\RegexLes.exe
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\bin\Debug\net9.0\RegexLes.deps.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\bin\Debug\net9.0\RegexLes.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\bin\Debug\net9.0\RegexLes.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\bin\Debug\net9.0\RegexLes.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\obj\Debug\net9.0\RegexLes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\obj\Debug\net9.0\RegexLes.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\obj\Debug\net9.0\RegexLes.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\obj\Debug\net9.0\RegexLes.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\obj\Debug\net9.0\RegexLes.sourcelink.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\obj\Debug\net9.0\RegexLes.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\obj\Debug\net9.0\refint\RegexLes.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\obj\Debug\net9.0\RegexLes.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\obj\Debug\net9.0\RegexLes.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\RegexLes\obj\Debug\net9.0\ref\RegexLes.dll

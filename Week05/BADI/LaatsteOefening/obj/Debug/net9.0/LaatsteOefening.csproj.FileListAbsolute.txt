@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\bin\Debug\net9.0\LaatsteOefening.exe
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\bin\Debug\net9.0\LaatsteOefening.deps.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\bin\Debug\net9.0\LaatsteOefening.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\bin\Debug\net9.0\LaatsteOefening.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\bin\Debug\net9.0\LaatsteOefening.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\obj\Debug\net9.0\LaatsteOefening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\obj\Debug\net9.0\LaatsteOefening.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\obj\Debug\net9.0\LaatsteOefening.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\obj\Debug\net9.0\LaatsteOefening.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\obj\Debug\net9.0\LaatsteOefening.sourcelink.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\obj\Debug\net9.0\LaatsteOefening.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\obj\Debug\net9.0\refint\LaatsteOefening.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\obj\Debug\net9.0\LaatsteOefening.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\obj\Debug\net9.0\LaatsteOefening.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week05\BADI\LaatsteOefening\obj\Debug\net9.0\ref\LaatsteOefening.dll

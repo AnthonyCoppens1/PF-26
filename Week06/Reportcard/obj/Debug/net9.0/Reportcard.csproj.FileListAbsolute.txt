@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\bin\Debug\net9.0\Reportcard.exe
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\bin\Debug\net9.0\Reportcard.deps.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\bin\Debug\net9.0\Reportcard.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\bin\Debug\net9.0\Reportcard.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\bin\Debug\net9.0\Reportcard.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\obj\Debug\net9.0\Reportcard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\obj\Debug\net9.0\Reportcard.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\obj\Debug\net9.0\Reportcard.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\obj\Debug\net9.0\Reportcard.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\obj\Debug\net9.0\Reportcard.sourcelink.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\obj\Debug\net9.0\Reportcard.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\obj\Debug\net9.0\refint\Reportcard.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\obj\Debug\net9.0\Reportcard.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\obj\Debug\net9.0\Reportcard.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\Reportcard\obj\Debug\net9.0\ref\Reportcard.dll

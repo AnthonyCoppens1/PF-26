@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\bin\Debug\net9.0\JaggedArrays.exe
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\bin\Debug\net9.0\JaggedArrays.deps.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\bin\Debug\net9.0\JaggedArrays.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\bin\Debug\net9.0\JaggedArrays.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\bin\Debug\net9.0\JaggedArrays.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\obj\Debug\net9.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\obj\Debug\net9.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\obj\Debug\net9.0\JaggedArrays.sourcelink.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\obj\Debug\net9.0\JaggedArrays.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\obj\Debug\net9.0\refint\JaggedArrays.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\obj\Debug\net9.0\JaggedArrays.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\obj\Debug\net9.0\JaggedArrays.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\JaggedArrays\obj\Debug\net9.0\ref\JaggedArrays.dll

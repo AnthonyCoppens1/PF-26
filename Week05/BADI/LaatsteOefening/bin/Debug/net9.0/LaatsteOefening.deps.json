@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LaatsteOefening/1.0.0": {
+        "runtime": {
+          "LaatsteOefening.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaatsteOefening/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
