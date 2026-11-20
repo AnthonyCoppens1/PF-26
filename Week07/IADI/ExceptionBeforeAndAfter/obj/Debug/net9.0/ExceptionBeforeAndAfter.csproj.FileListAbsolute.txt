@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\bin\Debug\net9.0\ExceptionBeforeAndAfter.exe
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\bin\Debug\net9.0\ExceptionBeforeAndAfter.deps.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\bin\Debug\net9.0\ExceptionBeforeAndAfter.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\bin\Debug\net9.0\ExceptionBeforeAndAfter.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\bin\Debug\net9.0\ExceptionBeforeAndAfter.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\obj\Debug\net9.0\ExceptionBeforeAndAfter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\obj\Debug\net9.0\ExceptionBeforeAndAfter.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\obj\Debug\net9.0\ExceptionBeforeAndAfter.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\obj\Debug\net9.0\ExceptionBeforeAndAfter.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\obj\Debug\net9.0\ExceptionBeforeAndAfter.sourcelink.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\obj\Debug\net9.0\ExceptionBeforeAndAfter.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\obj\Debug\net9.0\refint\ExceptionBeforeAndAfter.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\obj\Debug\net9.0\ExceptionBeforeAndAfter.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\obj\Debug\net9.0\ExceptionBeforeAndAfter.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week07\IADI\ExceptionBeforeAndAfter\obj\Debug\net9.0\ref\ExceptionBeforeAndAfter.dll

@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\bin\Debug\net10.0\JaggedArrays.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\bin\Debug\net10.0\JaggedArrays.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\bin\Debug\net10.0\JaggedArrays.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\bin\Debug\net10.0\JaggedArrays.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\bin\Debug\net10.0\JaggedArrays.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\obj\Debug\net10.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\obj\Debug\net10.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\obj\Debug\net10.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\obj\Debug\net10.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\obj\Debug\net10.0\JaggedArrays.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\obj\Debug\net10.0\JaggedArrays.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\obj\Debug\net10.0\refint\JaggedArrays.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\obj\Debug\net10.0\JaggedArrays.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\obj\Debug\net10.0\JaggedArrays.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week06\BADI\JaggedArrays\obj\Debug\net10.0\ref\JaggedArrays.dll
