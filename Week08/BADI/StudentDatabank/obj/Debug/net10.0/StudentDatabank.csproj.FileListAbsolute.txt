@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\bin\Debug\net10.0\StudentDatabank.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\bin\Debug\net10.0\StudentDatabank.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\bin\Debug\net10.0\StudentDatabank.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\bin\Debug\net10.0\StudentDatabank.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\bin\Debug\net10.0\StudentDatabank.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\obj\Debug\net10.0\StudentDatabank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\obj\Debug\net10.0\StudentDatabank.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\obj\Debug\net10.0\StudentDatabank.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\obj\Debug\net10.0\StudentDatabank.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\obj\Debug\net10.0\StudentDatabank.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\obj\Debug\net10.0\StudentDatabank.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\obj\Debug\net10.0\refint\StudentDatabank.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\obj\Debug\net10.0\StudentDatabank.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\obj\Debug\net10.0\StudentDatabank.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\BADI\StudentDatabank\obj\Debug\net10.0\ref\StudentDatabank.dll

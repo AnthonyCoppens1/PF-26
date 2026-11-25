@@ -53,6 +53,7 @@ namespace Lists
             //rekening mee houden dat oude index een plaats opschuift.
 
             ints.Insert(2, 12);
+            
 
             //ook mogelijk, zelfde index, ander getal
             ints.Insert(4, 21);
@@ -62,6 +63,8 @@ namespace Lists
             //grote gehele toevoegen
             int[] getallen = {7,8,9};
             ints.AddRange(getallen);
+
+            
 
             for (int i = 0; i < ints.Count; i++)
             {
@@ -132,6 +135,7 @@ namespace Lists
             }
             Console.WriteLine();
 
+            
             //starten bij 4, loopen tot en met 2 en telkens op index 1 invoegen
             /*for (int i = 4; i > 1; i--)
             {
@@ -176,7 +180,6 @@ namespace Lists
             //zoeken naar een index
             int index = str.IndexOf("drie");
             Console.WriteLine(index);
-
             str.Add("een");
             for (int i = 0; i < str.Count; i++)
             {
@@ -208,6 +211,25 @@ namespace Lists
             //array naar list
             double[] doubles = {1.2, 3.5, 8.9};
             List<double> D = doubles.ToList();
+
+
+            //nog een optie om massaal alles te verwijderen
+
+            //ALTERNATIEF OF .RemoveAll()
+            // een twee drie vier vijf twee twee
+            while (str.Contains("twee"))
+            {
+                str.Remove("twee");
+            }
+            
+
+
+
+            string[] s = File.ReadAllLines("file.txt");
+            List<string> lijnen = s.ToList();
+
+            lijnen.Add("....");
+            s = lijnen.ToArray();
 
 
 

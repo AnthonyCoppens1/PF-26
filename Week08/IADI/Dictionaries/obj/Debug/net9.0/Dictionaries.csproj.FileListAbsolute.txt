@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\bin\Debug\net9.0\Dictionaries.exe
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\bin\Debug\net9.0\Dictionaries.deps.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\bin\Debug\net9.0\Dictionaries.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\bin\Debug\net9.0\Dictionaries.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\bin\Debug\net9.0\Dictionaries.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\obj\Debug\net9.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\obj\Debug\net9.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\obj\Debug\net9.0\Dictionaries.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\obj\Debug\net9.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\obj\Debug\net9.0\Dictionaries.sourcelink.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\obj\Debug\net9.0\Dictionaries.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\obj\Debug\net9.0\refint\Dictionaries.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\obj\Debug\net9.0\Dictionaries.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\obj\Debug\net9.0\Dictionaries.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week08\IADI\Dictionaries\obj\Debug\net9.0\ref\Dictionaries.dll

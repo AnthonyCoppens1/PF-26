@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace MyApp
+namespace StudentDatabank
 {
     internal class Program
     {
@@ -35,6 +36,54 @@ namespace MyApp
             //ADD --> toevoegen: Naam (string), leeftijd (int), geboortedatum(DateTime)
             //ADJUST --> wijzigen van gegevens
             //DELETE --> verwijderen
+
+            Console.Write($"Wat wil je doen? ");
+            string WatTeDoen = Console.ReadLine();
+            List<string> Namen = new List<string>();
+            List<int> Leeftijden = new List<int>();
+            List<DateTime> Geboortedatums = new List<DateTime>();
+
+            while (WatTeDoen != "STOP")
+            {
+                if (WatTeDoen == "ADD")
+                {
+                    Console.Write($"Naam: "); Namen.Add(Console.ReadLine());
+                    Console.Write($"Leeftijd: "); Leeftijden.Add(Convert.ToInt32(Console.ReadLine()));
+                    Console.Write($"Geboortedatums: "); Geboortedatums.Add(Convert.ToDateTime(Console.ReadLine()));
+                    Console.Write($"Wat wil je doen? "); WatTeDoen = Console.ReadLine();
+                }
+                else if (WatTeDoen == "ADJUST")
+                {
+                    Console.Write($"Welke persoon wil je aanpassen? ");
+                    int index = Namen.IndexOf(Console.ReadLine());
+                    
+                    Console.Write($"Naam: "); Namen[index] = Console.ReadLine();
+                    Console.Write($"Leeftijd: "); Leeftijden[index] = Convert.ToInt32(Console.ReadLine());
+                    Console.Write($"Geboortedatums: "); Geboortedatums[index] = Convert.ToDateTime(Console.ReadLine());
+                    Console.Write($"Wat wil je doen? "); WatTeDoen = Console.ReadLine();
+                }
+                else if (WatTeDoen == "DELETE")
+                {
+                    Console.Write($"Welke persoon wil je verwijderen? ");
+                    int index = Namen.IndexOf(Console.ReadLine());
+                    
+                    Console.Write($"Naam: "); Namen.RemoveAt(index);
+                    Console.Write($"Leeftijd: "); Leeftijden.RemoveAt(index);
+                    Console.Write($"Geboortedatums: "); Geboortedatums.RemoveAt(index);
+                    Console.Write($"Wat wil je doen? "); WatTeDoen = Console.ReadLine();
+                }
+                else
+                {
+                    Console.WriteLine($"Geef een juiste keuze in: ");
+                    WatTeDoen = Console.ReadLine();
+                }
+            }
+
+
+            for(int i = 0; i < Namen.Count; i++)
+            {
+                Console.WriteLine($"{Namen[i]}-{Leeftijden[i]}-{Geboortedatums[i]}");
+            }
         }
     }
 }

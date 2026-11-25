@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\bin\Debug\net10.0\Exercises.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\bin\Debug\net10.0\Exercises.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\bin\Debug\net10.0\Exercises.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\bin\Debug\net10.0\Exercises.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\bin\Debug\net10.0\Exercises.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\obj\Debug\net10.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\obj\Debug\net10.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\obj\Debug\net10.0\Exercises.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\obj\Debug\net10.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\obj\Debug\net10.0\Exercises.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\obj\Debug\net10.0\Exercises.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\obj\Debug\net10.0\refint\Exercises.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\obj\Debug\net10.0\Exercises.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\obj\Debug\net10.0\Exercises.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\Exercises\obj\Debug\net10.0\ref\Exercises.dll

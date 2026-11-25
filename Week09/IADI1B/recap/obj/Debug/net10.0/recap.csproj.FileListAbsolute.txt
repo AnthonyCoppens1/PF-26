@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\bin\Debug\net10.0\recap.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\bin\Debug\net10.0\recap.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\bin\Debug\net10.0\recap.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\bin\Debug\net10.0\recap.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\bin\Debug\net10.0\recap.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\obj\Debug\net10.0\recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\obj\Debug\net10.0\recap.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\obj\Debug\net10.0\recap.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\obj\Debug\net10.0\recap.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\obj\Debug\net10.0\recap.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\obj\Debug\net10.0\recap.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\obj\Debug\net10.0\refint\recap.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\obj\Debug\net10.0\recap.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\obj\Debug\net10.0\recap.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\PF-26\Week09\IADI1A\recap\obj\Debug\net10.0\ref\recap.dll
